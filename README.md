@@ -1,4 +1,4 @@
-# tkinter_calculator_app
+# Tkinter Calculator App
 A Simple Calculator app
 
 ## Technologies
